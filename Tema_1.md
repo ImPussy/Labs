@@ -25,49 +25,42 @@
 ![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/1.JPG)
 
 ## 2.2. Настройка
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/2.JPG)
 ## 2.3. Создание нового репозитория
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/3.JPG)
 
 ## 2.4. Подготовка файлов
-![image](ссылка)
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/4.JPG)
 
 ## 2.5. Фиксация изменений
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/5.JPG)
 
 ## 2.6. Подключение к удаленному репозиторию
-![image](ссылка)
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/6.JPG)
 
 ## 2.7. Ветвление
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/7.JPG)
 
 ## 2.8. Особенности применения «Фетч»
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/8.JPG)
 
 ## 2.9. Удаление файлов, веток, локальных и удалённых репозиториев
-![image](ссылка)
-![image](ссылка)
-![image](ссылка)
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/9.JPG)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/9.2.JPG)
 
 ## 2.10. Отслеживание изменений в коммитах
-![image](ссылка)
-![image](ссылка)
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/10.JPG)
 ## 2.11. Возвращение файла к предыдущему (определенному) состоянию
-![image](ссылка)
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/11.JPG)
 
 ## 2.12. Возвращение к предыдущему коммиту
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/12.JPG)
 
 ## 2.13. Исправление коммита
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/13.JPG)
 
 ## 2.14. Разрешение конфликтов при слиянии
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/14.JPG)
 
 ## 2.15. Настройка .gitignore
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/15.JPG)
