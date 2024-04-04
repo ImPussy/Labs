@@ -29,7 +29,7 @@
 print(1 == 2)
 ```
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
+![Меню](ссылка)
 
 ## Выводы
 Сравнение возвращает булевое значение
