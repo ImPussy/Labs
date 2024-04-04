@@ -22,7 +22,7 @@
 | Задание 15 | + |
 
 ## 2.1. Установка
-![image](ссылка)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/1.JPG)
 
 ## 2.2. Настройка
 ![image](ссылка)
