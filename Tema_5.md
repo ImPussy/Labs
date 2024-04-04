@@ -40,7 +40,7 @@ print(f'Количество чеков: {count}\n'
       f'Самый частый гость: {guest}')
 ```
 ### Результат.
-![Меню]
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_5/pictureLab5/1.jpg)
 
 ## Выводы
 текст
@@ -67,7 +67,7 @@ print(f'3 лучших результата: {bests}\n'
 ```
 
 ### Результат.
-![Меню]
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_5/pictureLab5/2.jpg)
 
 ## Выводы
 текст
@@ -106,7 +106,7 @@ print("min S:", min(s))
 ```
 
 ### Результат.
-![Меню]
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_5/pictureLab5/3.jpg)
 
 ## Выводы
 itertools – инструмента стандартной библиотеки Python, содержащего распространённые шаблоны итераторов. Бесконечные счётчики, сочетания и размещения, итераторы среза и многое другое
@@ -136,7 +136,7 @@ if __name__ == '__main__':
 ```
 
 ### Результат.
-![Меню]
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_5/pictureLab5/4.jpg)
 
 ## Выводы
 текст
@@ -168,7 +168,7 @@ for l in lists:
 ```
 
 ### Результат.
-![Меню]
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_5/pictureLab5/5.jpg)
 
 ## Выводы
 текст
