@@ -30,7 +30,7 @@ q=0
 print(bool(q))
 ```
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/1.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/1.jpg)
 
 ## Выводы
 Используя функцию bool() можно преобразовать переменную в булевое значение. При преобразовании все значения будут давать значение "True", кроме: 0, пустой строки, NoneType или пустого списка.
@@ -44,7 +44,7 @@ print("a =", a, "b =", b, "c =", c)
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/1.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/1.jpg)
 
 ## Выводы
 Через ; можно в одну строку писать разные части кода.
@@ -58,7 +58,7 @@ print(a)
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/3.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/3.jpg)
 
 ## Выводы
 1)Функция input() позволяет вводить значения из консоли. Функция input() по умолчанию конвертирует всю получаемую информацию в строку;
@@ -74,7 +74,7 @@ print(a*4)
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/4.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/4.jpg)
 
 ## Выводы
 Если строковую переменную умножить на целое число типа int, то строка повториться столько раз, на сколько была умножена. С float значениями будет ошибка.
@@ -88,7 +88,7 @@ print(f'Сегодня {a} {b} {c}', end='.\nВсего хорошего!')
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/5.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/5.jpg)
 
 ## Выводы
 1.Используя модуль "datetime' мы можем выполнять операции с датами, такие как сравнение, форматирование и т.д. А также этот модуль позваляет определять текущие дату и время используя метод .today();
@@ -104,7 +104,7 @@ print("Hello ", a, "World")
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/6.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/6.jpg)
 
 ## Выводы
 текст
@@ -118,7 +118,7 @@ print(len(a))
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/7.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/7.jpg)
 
 ## Выводы
 Функция len() возвращает длину полседовательности символов строки в виде целочисленного значения. Данная функция также возвращает значение длины списка.
@@ -132,7 +132,7 @@ print(a.lower())
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/8.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/8.jpg)
 
 ## Выводы
 Метод .lower() переводит строку в нижний регистр.
@@ -146,7 +146,7 @@ print(f'Результат сложения: {a+b}',f'разности: {a-b}',f
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/9.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/9.jpg)
 
 ## Выводы
 Функция input() получает значения введенные пользователем.
@@ -161,7 +161,7 @@ print(a.replace('а','1'))
 ```
 
 ### Результат.
-![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/10.jpg))
+![Меню](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_2/picturesLab2/10.jpg)
 
 ## Выводы
 Метод .replace('заменяемое','заменитель') возвращает копию строки, в которой вхождение старых символов заменяется новыми
