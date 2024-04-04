@@ -25,7 +25,7 @@
 ![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/1.JPG)
 
 ## 2.2. Настройка
-![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/2.JPG)
+![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/2.jpg)
 ## 2.3. Создание нового репозитория
 ![image](https://github.com/ImPussy/Labs/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/picturesLab1/3.JPG)
 
